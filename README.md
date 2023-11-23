@@ -14,7 +14,7 @@ kodluyoruz eğitimleri kapsamında veri yapıları ve algoritmalar dersi proje �
 6. [**2**,**6**,**16**,**18**,**22**,**27**]
 
 ---
-**Big-O gösterimini yazınız.**
+Big-O gösterimini yazınız. 
 Insertion Sort'un Big-O gösterimi O(n^2)'dir.
 ---
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
@@ -31,3 +31,6 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 2. [**2**,**3**,5,8,7,9,4,15,6] 
 3. [**2**,**3**,**4**,8,7,9,5,15,6]
 4. [**2**,**3**,**4**,**5**,7,9,8,15,6]
+
+---
+# Proje 2 
