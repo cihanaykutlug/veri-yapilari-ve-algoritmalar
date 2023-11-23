@@ -48,3 +48,85 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 Big-O gösterimini yazınız.
 Merge Sort'un Big-O gösterimi O(n log n) şeklindedir.
+
+---
+# proje 3
+ [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+** root = 7 **
+eklenecek :5
+    7
+   / 
+  5
+eklenecek :1
+        7
+       / 
+      5
+    /
+   1
+eklenecek :8
+        7
+       / \
+      5   8
+    /
+   1
+eklenecek :3
+            7
+           / \
+          5   8
+        /
+       3
+     /
+   1
+eklenecek :6
+            7
+           / \
+          5   8
+        /  \
+       3    6
+     /
+   1
+eklenecek :0
+            7
+           / \
+          5   8
+        /  \
+       3    6
+     /
+   1
+  /
+ 0
+ eklenecek :9
+            7
+           / \
+          5   8
+        /  \   \
+       3    6   9
+     /
+   1
+  /
+ 0
+eklenecek :4
+                7
+               / \
+              5   8
+             /  \   \
+            4    6   9
+           /
+          3
+         /
+        1
+       /
+      0
+eklenecek :2
+                7
+               / \
+              5   8
+             /  \   \
+            4    6   9
+           /
+          3
+         /
+        1
+       / \
+      0   2
